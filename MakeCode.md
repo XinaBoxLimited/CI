@@ -1,4 +1,5 @@
-# Continuous Integration on MakeCode
+# Continuous Integration on MakeCode ![alt text][logo]
+[logo]: http://logo.xinabox.cc/?w=40&h=40&t=svg&f=b&b=t "XinaBox"
 This report is a consolitated view of all XinaBox MakeCode extension (pxt libs) and their status:
 
 xChip | maker | micro:bit
