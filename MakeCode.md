@@ -4,7 +4,7 @@ This Repository is a conso litated view of all XinaBox Libraries and their statu
 xChip | maker | micro:bit
 --- | :---: | :---:
 CW01|![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/microbit/badge.svg)
-IM01|![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/microbit/badge.svg)
+IM01|| ![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/microbit/badge.svg)
 OC01|![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/microbit/badge.svg)
 OC03|![Build status badge](https://github.com/xinabox/pxt-OC03/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-OC03/workflows/microbit/badge.svg)
 OC05|![Build status badge](https://github.com/xinabox/pxt-OC05/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-OC05/workflows/microbit/badge.svg)
