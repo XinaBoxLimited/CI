@@ -1,7 +1,7 @@
 # Continuous Integration on MakeCode
 This Repository is a conso litated view of all XinaBox Libraries and their status:
 
-xChip | micro:bit| maker
+xChip | maker | micro:bit
 --- | :---: | :---:
 CW01|![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/microbit/badge.svg)
 IM01|![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/microbit/badge.svg)
