@@ -1,5 +1,5 @@
 # Continuous Integration - Arduino
-This Repository is a consolitated view of all XinaBox Arduino Libraries and their status:
+This is a consolitated view of all XinaBox Arduino Libraries:
 
 xChip | Arduino
 --- | :---:
