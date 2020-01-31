@@ -1,8 +1,7 @@
 # Continuous Integration - Arduino
 This Repository is a consolitated view of all XinaBox Arduino Libraries and their status:
-
-"xChip | Arduino
---- | :---:"
+xChip | Arduino
+--- | :---:
 [AI01](https://github.com/xinabox/arduino-AI01)| [![Build Status](https://travis-ci.org/xinabox/arduino-AI01.svg?branch=master)](https://travis-ci.org/xinabox/arduino-AI01)
 [AS02](https://github.com/xinabox/arduino-AS02)| [![Build Status](https://travis-ci.org/xinabox/arduino-AS02.svg?branch=master)](https://travis-ci.org/xinabox/arduino-AS02)
 [CW01](https://github.com/xinabox/arduino-CW01)| [![Build Status](https://travis-ci.org/xinabox/arduino-CW01.svg?branch=master)](https://travis-ci.org/xinabox/arduino-CW01)
