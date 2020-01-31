@@ -1,5 +1,5 @@
-# Continuous Integration on MakeCode 
-This report is a consolitated view of all XinaBox MakeCode extension (pxt libs) and their status:
+# Continuous Integration - MakeCode
+This is a consolitated view of all XinaBox MakeCode Extensions (PXT Libraries:
 
 xChip | maker | micro:bit
 --- | :---: | :---:
