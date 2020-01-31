@@ -1,8 +1,8 @@
 # Continuous Integration on MakeCode 
 This report is a consolitated view of all XinaBox MakeCode extension (pxt libs) and their status:
 
-"xChip | maker | micro:bit
---- | :---: | :---:"
+xChip | maker | micro:bit
+--- | :---: | :---:
 [https://github.com/xinabox/pxt-CW01](CW01)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/microbit/badge.svg)
 [https://github.com/xinabox/pxt-IM01](IM01)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/microbit/badge.svg)
 [https://github.com/xinabox/pxt-OC01](OC01)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/microbit/badge.svg)
@@ -22,4 +22,3 @@ This report is a consolitated view of all XinaBox MakeCode extension (pxt libs) 
 [https://github.com/xinabox/pxt-SW02](SW02)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-SW02/workflows/microbit/badge.svg)
 [https://github.com/xinabox/pxt-SW03](SW03)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-SW03/workflows/microbit/badge.svg)
 [https://github.com/xinabox/pxt-SW10](SW10)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-SW10/workflows/microbit/badge.svg)
-
