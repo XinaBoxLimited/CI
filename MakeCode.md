@@ -1,8 +1,8 @@
 # Continuous Integration - MakeCode
 This is a consolitated view of all XinaBox MakeCode Extensions (PXT Libraries):
 
-"xChip | maker | micro:bit | Issues
---- | :---: | :---: | :---:"
+xChip | maker | micro:bit | Issues
+--- | :---: | :---: | :---:
 [CW01](https://github.com/xinabox/pxt-CW01)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-CW01/workflows/microbit/badge.svg) | [![GitHub Issues](https://img.shields.io/github/issues/xinabox/pxt-CW01.svg)](https://github.com/xinabox/pxt-CW01/issues) 
 [IM01](https://github.com/xinabox/pxt-IM01)|Only for micro:bit| ![Build status badge](https://github.com/xinabox/pxt-IM01/workflows/microbit/badge.svg) | [![GitHub Issues](https://img.shields.io/github/issues/xinabox/pxt-IM01.svg)](https://github.com/xinabox/pxt-IM01/issues) 
 [OC01](https://github.com/xinabox/pxt-OC01)|![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/maker/badge.svg)| ![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/microbit/badge.svg)|[![GitHub Issues](https://img.shields.io/github/issues/xinabox/pxt-OC01.svg)](https://github.com/xinabox/pxt-OC01/issues) 
